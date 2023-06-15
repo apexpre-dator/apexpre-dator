@@ -26,9 +26,6 @@
 </p>
 <br>
 <br>
-
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=apexpre-dator&show_icons=true&theme=dark&locale=en" alt="apexpre-dator" /></p>
-<br>
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=apexpre-dator&show_icons=true&theme=dark&locale=en&layout=compact" alt="apexpre-dator" /> </p>
 <br>
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apexpre-dator&theme=dark" alt="apexpre-dator" /> </p>
